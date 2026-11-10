@@ -123,10 +123,12 @@ I combine creativity, design thinking, and technical skills to create engaging v
   <a href="https://www.pinterest.com/montasirhasan/" target="_blank">
     <img src="https://cdn.simpleicons.org/pinterest/BD081C" alt="Pinterest" height="35" width="35" title="Pinterest"/>
   </a>
+  <a href="mailto:montasirhasan65@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Pinterest" height="35" width="35" title="Email"/>
 </p>
 
 <p align="center">
-  📧 <a href="mailto:montasirhasan65@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Pinterest" height="35" width="35" title="Email"/>
+  <a href="mailto:montasirhasan65@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Pinterest" height="35" width="35" title="Email"/>
 </p>
 
 <p align="center">
