@@ -41,16 +41,16 @@ I combine creativity, design thinking, and technical skills to create engaging v
     <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="Adobe Photoshop" width="45" height="45" title="Adobe Photoshop"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" width="45" height="45" title="Adobe Illustrator"/>
+    <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" alt="Adobe Illustrator" width="45" height="45" title="Adobe Illustrator"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="45" height="45" title="Figma"/>
+    <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="Figma" width="45" height="45" title="Figma"/>
   </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="Adobe After Effects" width="45" height="45" title="Adobe After Effects"/>
+    <img src="https://img.icons8.com/?size=100&id=108781&format=png&color=000000" alt="Adobe After Effects" width="45" height="45" title="Adobe After Effects"/>
   </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" alt="Adobe Premiere Pro" width="45" height="45" title="Adobe Premiere Pro"/>
+    <img src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" alt="Adobe Premiere Pro" width="45" height="45" title="Adobe Premiere Pro"/>
   </a>
   <a href="https://www.capcut.com/" target="_blank">
     <img src="https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/pwa/512.png" alt="CapCut" width="45" height="45" title="CapCut"/>
