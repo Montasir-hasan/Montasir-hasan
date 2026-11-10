@@ -38,7 +38,7 @@ I combine creativity, design thinking, and technical skills to create engaging v
 
 <p align="left">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" width="45" height="45" title="Adobe Photoshop"/>
+    <img src="[https://cdn.simpleicons.org/adobephotoshop/31A8FF](https://img.icons8.com/?size=100&id=13677&format=png&color=000000)" alt="Adobe Photoshop" width="45" height="45" title="Adobe Photoshop"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Adobe Illustrator" width="45" height="45" title="Adobe Illustrator"/>
