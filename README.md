@@ -67,7 +67,7 @@ I combine creativity, design thinking, and technical skills to create engaging v
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="45" height="45" title="CSS3"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="[https://cdn.simpleicons.org/javascript/F7DF1E](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" alt="JavaScript" width="45" height="45" title="JavaScript"/>
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="45" height="45" title="JavaScript"/>
   </a>
   <a href="https://wordpress.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="Firebase" width="45" height="45" title="Firebase"/>
@@ -96,11 +96,11 @@ I combine creativity, design thinking, and technical skills to create engaging v
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=montasir-hasan&show_icons=true&theme=default&hide_border=true" alt="Montasir's GitHub Statistics" />
+  <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" alt="Montasir's GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montasir-hasan&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Most Used Languages" />
+  <img src="https://img.icons8.com/?size=100&id=J9FsmVA87TzT&format=png&color=000000" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -125,10 +125,6 @@ I combine creativity, design thinking, and technical skills to create engaging v
   </a>
   <a href="mailto:montasirhasan65@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Pinterest" height="35" width="35" title="Email"/>
-</p>
-
-<p align="center">
-  <a href="mailto:montasirhasan65@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Pinterest" height="35" width="35" title="Email"/>
 </p>
 
 <p align="center">
