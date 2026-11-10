@@ -43,9 +43,6 @@ I combine creativity, design thinking, and technical skills to create engaging v
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" alt="Adobe Illustrator" width="45" height="45" title="Adobe Illustrator"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="Figma" width="45" height="45" title="Figma"/>
-  </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=108781&format=png&color=000000" alt="Adobe After Effects" width="45" height="45" title="Adobe After Effects"/>
   </a>
@@ -55,25 +52,28 @@ I combine creativity, design thinking, and technical skills to create engaging v
   <a href="https://www.capcut.com/" target="_blank">
     <img src="https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/pwa/512.png" alt="CapCut" width="45" height="45" title="CapCut"/>
   </a>
+   <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="45" height="45" title="Figma"/>
+  </a>
 </p>
 
 ### 💻 Development & Programming
 
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="45" height="45" title="CSS3"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="45" height="45" title="HTML5"/>
+    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="45" height="45" title="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="45" height="45" title="CSS3"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="45" height="45" title="JavaScript"/>
+    <img src="[https://cdn.simpleicons.org/javascript/F7DF1E](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" alt="JavaScript" width="45" height="45" title="JavaScript"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openjdk/FFFFFF" alt="Java" width="45" height="45" title="Java"/>
+  <a href="https://wordpress.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="Firebase" width="45" height="45" title="Firebase"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="45" height="45" title="Firebase"/>
+    <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="45" height="45" title="Firebase"/>
   </a>
 </p>
 
@@ -81,7 +81,13 @@ I combine creativity, design thinking, and technical skills to create engaging v
 
 <p align="left">
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" alt="Microsoft Office" width="45" height="45" title="Microsoft Office"/>
+    <img src="https://img.icons8.com/?size=100&id=13674&format=png&color=000000" alt="Microsoft Office" width="45" height="45" title="Microsoft Office"/>
+  </a>
+    <a href="https://www.microsoft.com/microsoft-365" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" alt="Microsoft Office" width="45" height="45" title="Microsoft Office"/>
+  </a>
+    <a href="https://www.microsoft.com/microsoft-365" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000" alt="Microsoft Office" width="45" height="45" title="Microsoft Office"/>
   </a>
 </p>
 
