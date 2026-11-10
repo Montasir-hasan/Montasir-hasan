@@ -113,7 +113,7 @@ I combine creativity, design thinking, and technical skills to create engaging v
 
 <p align="center">
   <a href="https://linkedin.com/in/montasirhasan" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="35" width="35" title="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" height="35" width="35" title="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.behance.net/montasirhasanbd" target="_blank">
@@ -126,7 +126,7 @@ I combine creativity, design thinking, and technical skills to create engaging v
 </p>
 
 <p align="center">
-  📧 <a href="mailto:montasirhasan65@gmail.com">montasirhasan65@gmail.com</a>
+  📧 <a href="mailto:montasirhasan65@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Pinterest" height="35" width="35" title="Email"/>
 </p>
 
 <p align="center">
