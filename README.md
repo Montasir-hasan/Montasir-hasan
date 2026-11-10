@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.icons8.com/?size=100&id=98A4yZTt9abw&format=png&color=000000" alt="GitHub Trophies" />
+    <img src="https://img.icons8.com/?size=100&id=102561&format=png&color=000000" alt="GitHub Trophies" />
   </a>
 </p>
 
