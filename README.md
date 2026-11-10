@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasir-hasan&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://img.icons8.com/?size=100&id=98A4yZTt9abw&format=png&color=000000" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -26,7 +26,6 @@ I combine creativity, design thinking, and technical skills to create engaging v
 - 🔭 Currently working with clients through **[Upwork](https://www.upwork.com/freelancers/~01aac4a088afbbaffd)**
 - 🎨 Explore my creative work: **[Behance Portfolio](https://www.behance.net/gallery/167849619/Portfolio)**
 - ✍️ Articles and professional updates: **[LinkedIn](https://www.linkedin.com/in/montasirhasan)**
-- 📄 Check out my experience: **[View My Resume](https://montasir-hasan.github.io/resume/Montasir%20hasan%20%28GD%29.pdf)**
 - 📧 Email: **montasirhasan65@gmail.com**
 - ⚡ Fun fact: **Turning imagination into impact.**
 
